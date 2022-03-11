@@ -5,5 +5,6 @@ public class Hello {
 
         System.out.println("Hello!! My First java coding!!");
 
+        System.out.println("Edit Java Code!!");
     }
 }
